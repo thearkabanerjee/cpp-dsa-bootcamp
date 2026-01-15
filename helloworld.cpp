@@ -1,3 +1,5 @@
+// skeleton of c++ program
+
 # include <iostream>
 using namespace std;
 
@@ -10,3 +12,4 @@ int main(){
 }
 // endl is what helps to help iin 
 // cout helps to print something on the screen
+// ; is important it's like the fullstop sign in english 
