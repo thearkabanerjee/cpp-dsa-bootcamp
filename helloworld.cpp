@@ -1,6 +1,6 @@
 // skeleton of c++ program
 
-# include <iostream>
+# include <iostream> // header file which is helping us to use this cout program
 using namespace std;
 
 int main(){
