@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// this is the way in which you can like define what to do
 int main() {
     int A, B;
     char S;
