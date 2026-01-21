@@ -1,4 +1,4 @@
-# include <iostream>
+#include <bits/stdc++.h> // you need to add this this is better for any codeform
 using namespace std;
 
 int main(){
