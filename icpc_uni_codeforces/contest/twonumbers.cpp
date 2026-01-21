@@ -4,13 +4,10 @@ using namespace std;
 int main(){
     int a, b;
     cin >> a>> b;
-    if (a%b == 0){
-        cout << "floor " << a<< " / " <<b<< " = " << a/b << endl;
-        cout << "ceil " << a<< " / " <<b<< " = " << a/b << endl;
-    }
-    else {
-        cout << "floor " << a<< " / " <<b<< " = " << a/b << endl;
-        cout << "ceil " << a<< " / " <<b<< " = " << (a/b) +1 << endl;
-    }
+    double ans = (double)a/b;
+    cout << "floor " << a << " / " << b << " = " << floor(ans) << endl;
+    cout << "ceil " << a << " / " << b << " = " << ceil(ans) << endl;
+    cout << "round " << a << " / " << b << " = " << round(ans) << endl;
     return 0;
 }
+
