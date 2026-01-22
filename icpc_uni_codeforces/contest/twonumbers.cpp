@@ -1,4 +1,5 @@
-#include <bits/stdc++.h> // you need to add this this is better for any codeform
+// #include <bits/stdc++.h> // you need to add this this is better for any codeform
+# include <iostream>
 using namespace std;
 
 int main(){
