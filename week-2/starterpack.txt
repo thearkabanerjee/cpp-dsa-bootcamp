@@ -1,0 +1,3 @@
+// main thing is just to learn loops
+
+// and maybe also do some pattern problems
