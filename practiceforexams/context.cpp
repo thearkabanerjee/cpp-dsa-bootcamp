@@ -10,3 +10,8 @@
 // 3. Pattern Printing
 
 // to the most complex form
+
+
+// progress : 23rd Jan - Done with all the loops problems in C++ , i need to practice a few thou
+
+// marking the ones i need to practice
