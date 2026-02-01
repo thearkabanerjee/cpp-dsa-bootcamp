@@ -1,20 +1,21 @@
-// a number is wonderful if it is an odd number and it's binary is a palindrome
+// // a number is wonderful if it is an odd number and it's binary is a palindrome
 
 
-# include <iostream>
-using namespace std;
+// # include <iostream>
 
-string oddchecker(int num){
-    return (num % 2 ==0? "yes": "no");
-}
+// using namespace std;
 
-string binpalindromechecker(int num){
+// string oddchecker(int num){
+//     return (num % 2 ==0? "yes": "no");
+// }
+
+// string binpalindromechecker(int num){
+//     // somthing something
+// }
+
+
+// int main(){
     
-}
-
-
-int main(){
     
-    
-    return 0;
-}
+//     return 0;
+// }
