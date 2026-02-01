@@ -13,7 +13,6 @@ int main(){
     cin >> a>> b;
     swapper(a,b);
     
-    
     return 0;
 }
 
