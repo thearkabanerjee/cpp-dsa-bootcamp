@@ -1,0 +1,13 @@
+#include <cctype>
+# include <iostream>
+using namespace std;
+
+int main(){
+    char a;
+    cin >> a;
+    
+    cout << (char)tolower(a)<< endl;
+    
+    
+    return 0;
+}
