@@ -7,8 +7,6 @@ int main(){
     cin >> a;
     
     cout << char(tolower(a))<< endl;
-    
-    
-    
+
     return 0;
 }
