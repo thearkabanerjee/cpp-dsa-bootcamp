@@ -1,0 +1,4 @@
+binary search only works on sorted data and we can do a few things 
+
+
+it is a better way to do the searching thing
