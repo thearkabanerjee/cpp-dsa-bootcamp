@@ -1,0 +1,7 @@
+what is searching ?
+ - to look for something 
+ - to find something 
+ 
+ we set a target from some array or group of elements to find a target value 
+ 
+ 
