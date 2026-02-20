@@ -19,6 +19,7 @@ int main(){
     for (int i = 0 ; i < a; i++){
         if (arr[i] == b){
             flag = "True";
+            break;
         }
     }
     
